@@ -1,0 +1,673 @@
+/* ------------------------------------MEDIA 992-------------------------------------------- */
+
+@media (max-width:992px) {
+
+    /* header */
+
+    .container {
+        max-width: 960px;
+    }
+
+    /* section business */
+
+    #business {
+        padding: 130px 0 90px 0;
+
+    }
+
+    .business_info h3 {
+        font-size: 44px;
+    }
+
+    .business_info h5 {
+        font-size: 24px;
+        font-weight: 400;
+        padding-top: 5px;
+        padding-bottom: 40px;
+    }
+
+    /* section about us */
+
+    #about p {
+        color: #444444;
+        padding-top: 20px;
+        font-size: 17px;
+    }
+
+    #about li {
+        color: #444444;
+    }
+
+    .section_title {
+        padding-bottom: 20px;
+    }
+
+    /* section architect */
+
+    .architect_img {
+        text-align: center;
+    }
+
+    #architect {
+        padding: 110px 0;
+    }
+
+    .architect_list_top h5 {
+        font-size: 20px;
+    }
+
+    .pro_wrap {
+        width: 100%;
+    }
+
+    .architect_info h3 {
+        padding-top: 25px;
+    }
+
+    .architect_info p {
+        font-size: 16px;
+    }
+
+    /* section skills */
+
+    .skills_img img {
+        height: 440px;
+    }
+
+    #service .section_title p {
+        font-size: 17px;
+    }
+
+    /* section cta  */
+
+    #cta {
+        background-attachment: scroll;
+    }
+
+    .cta_info p {
+        font-size: 16px;
+    }
+
+    /* section team */
+
+    .team_img img {
+        width: 90%;
+    }
+
+    .team_info h4 {
+        font-size: 18px;
+    }
+
+    .team_info h6 {
+        font-size: 16px;
+    }
+
+    .team_info p {
+        font-size: 16px;
+    }
+
+    .team_social a {
+        padding: 0 8px 0 0;
+    }
+
+    .team_social a i {
+        padding: 7px;
+    }
+
+    /* section pricing */
+
+    .pricing_box {
+        max-width: 80%;
+    }
+
+    .pricing_box ul li {
+        font-size: 16px;
+    }
+
+    .pricing_box ul li i {
+        font-size: 16px;
+    }
+
+    .pricing_box a {
+        padding: 10px 20px;
+    }
+
+    #pricing .section_title p {
+        font-size: 17px;
+    }
+
+    /* section asked */
+
+    .asked_info li{
+        margin: 15px 0;
+    }
+
+    #asked .section_title p {
+        font-size: 17px;
+        font-weight: 400;
+    }
+
+    /* section contact */
+
+    #contact .section_title p {
+        font-size: 17px;
+    }
+
+    /* footer */
+
+    .f_social a{
+        margin-right: 0;
+    }
+}
+
+/* ------------------------------------MEDIA 768-------------------------------------------- */
+
+@media (max-width:768px) {
+
+    .container {
+        max-width: 720px;
+    }
+
+    /* header */
+
+    #responsive_buton {
+        display: block;
+        background-color: transparent;
+        color: #fff;
+        border: none;
+    }
+
+    #responsive_buton i {
+        font-size: 20px;
+    }
+
+    .navbar_button button {
+        display: none;
+    }
+
+    .navbar-nav {
+        display: none;
+    }
+
+    /* section business */
+
+    #business {
+        padding: 100px 30px 50px 30px;
+        height: 100vh;
+    }
+
+    .business_info h3 {
+        padding-top: 20px;
+        font-size: 28px;
+    }
+
+    .order {
+        order: 1;
+    }
+
+    .business_img {
+        animation: none;
+        text-align: center;
+    }
+
+    .business_img img {
+        width: 70%;
+    }
+
+    #business {
+        text-align: center;
+    }
+
+    .business_info h5 {
+        padding: 10px 0 20px 0;
+        font-size: 18px;
+        font-weight: 400;
+    }
+
+    .business_info h3 {
+        font-size: 28px;
+        font-weight: 500;
+        line-height: 36px;
+    }
+
+    .business_button button:nth-child(1) {
+        padding: 10px 28px;
+    }
+
+    .business_button button:nth-child(2) {
+        padding: 10px 28px;
+        margin: 0;
+    }
+
+    /* section client */
+    .img_width {
+        width: 50%;
+    }
+
+    /* section about us */
+
+    #about p {
+        color: #444444;
+        padding-top: 20px;
+        font-size: 17px;
+    }
+
+    #about li {
+        color: #444444;
+    }
+
+    .section_title {
+        padding-bottom: 20px;
+    }
+
+    /* section architect */
+
+    .architect_img {
+        text-align: center;
+    }
+
+    .architect_img img{
+        width: 80%;
+    }
+
+    #architect {
+        padding: 110px 0;
+    }
+
+    .architect_list_top h5 {
+        font-size: 20px;
+    }
+
+    .pro_wrap {
+        width: 100%;
+    }
+
+    .architect_info h3 {
+        padding-top: 25px;
+    }
+
+    .architect_info p {
+        font-size: 16px;
+    }
+
+    /* section skills */
+
+    .skills_img img {
+        height: 440px;
+    }
+
+    #service .section_title p {
+        font-size: 17px;
+    }
+
+    /* section cta  */
+
+    #cta {
+        background-attachment: scroll;
+    }
+
+   .cta_btn{
+        display: flex;
+        justify-content: center;
+    }
+
+    .cta_info p {
+        font-size: 16px;
+    }
+
+    /* section team */
+
+    .team_img img {
+        width: 90%;
+    }
+
+    .team_info h4 {
+        font-size: 18px;
+    }
+
+    .team_info h6 {
+        font-size: 16px;
+    }
+
+    .team_info p {
+        font-size: 16px;
+    }
+
+    .team_social a {
+        padding: 0 8px 0 0;
+    }
+
+    .team_social a i {
+        padding: 7px;
+    }
+
+    /* section pricing */
+
+    .pricing_box ul li {
+        font-size: 20px;
+    }
+
+    .pricing_box ul li i {
+        font-size: 20px;
+    }
+
+    .pricing_box a {
+        padding: 18px 28px;
+    }
+
+    #pricing .section_title p {
+        font-size: 17px;
+    }
+
+    /* section contact */
+
+    #join_email{
+        margin-bottom: 20px;
+    }
+
+    /* footer */
+
+    .f_links li{
+        padding: 5px 0;
+    }
+
+    .f_social{
+        padding: 40px auto;
+    }
+
+    #f_srv{
+        padding: 40px auto;
+    }
+}
+
+/* ------------------------------------MEDIA 576-------------------------------------------- */
+
+@media (max-width:576px) {
+
+    /* header */
+
+    .container {
+        max-width: 540px;
+    }
+
+    #responsive_buton {
+        display: block;
+        background-color: transparent;
+        color: #fff;
+        border: none;
+    }
+
+    #responsive_buton i {
+        font-size: 20px;
+    }
+
+    .navbar_button button {
+        display: none;
+    }
+
+    .navbar-nav {
+        display: none;
+    }
+
+    /* section business */
+
+    #business {
+        padding: 150px 30px 50px 30px;
+        height: 100vh;
+    }
+
+    .business_info h3 {
+        padding-top: 20px;
+        font-size: 28px;
+    }
+
+    .order {
+        order: 1;
+    }
+
+    .business_img {
+        animation: none;
+        text-align: center;
+    }
+
+    #business {
+        text-align: center;
+    }
+
+    .business_info h5 {
+        padding: 10px 0 20px 0;
+        font-size: 18px;
+        font-weight: 400;
+    }
+
+    .business_info h3 {
+        font-size: 28px;
+        font-weight: 500;
+        line-height: 36px;
+    }
+
+    .business_button button:nth-child(1) {
+        padding: 10px 28px;
+    }
+
+    .business_button button:nth-child(2) {
+        padding: 10px 28px;
+        margin: 0;
+    }
+
+    /* section client */
+    .img_width {
+        width: 40%;
+    }
+
+    /* section about us */
+
+    #about p {
+        color: #444444;
+        padding-top: 20px;
+    }
+
+    #about li {
+        color: #444444;
+    }
+
+    .section_title {
+        padding-bottom: 20px;
+    }
+
+    /* section architect */
+
+    .order {
+        order: 2;
+    }
+
+    .architect_img img {
+        width: 100%;
+    }
+
+    .architect_img {
+        text-align: center;
+    }
+
+    #architect {
+        padding: 80px 0;
+    }
+
+    .architect_list_top h5 {
+        font-size: 20px;
+    }
+
+    .pro_wrap {
+        width: 100%;
+    }
+
+    .architect_info h3 {
+        padding-top: 25px;
+    }
+
+    .architect_info p {
+        font-size: 16px;
+    }
+
+    /* section skills */
+
+    .skills_title p {
+        font-size: 17px;
+    }
+
+    .skills_img img{
+        height: auto;
+    }
+
+    /* section service */
+    .services_info {
+        margin-bottom: 30px;
+    }
+
+    #service .section_title h2{
+        padding-bottom: 10px;
+    }
+
+    .services_info{
+        padding: 30px 20px;
+        margin-bottom: 0;
+    }
+    /* section cta */
+
+    #cta {
+        background-attachment: scroll;
+    }
+
+    .cta_info {
+        text-align: center;
+    }
+
+    .cta_button {
+        padding-top: 20px;
+        padding-left: 0;
+    }
+
+    .cta_btn{
+        display: flex;
+        justify-content: center;
+    }
+
+    /* section team */
+
+    .team_img img {
+        width: 90%;
+    }
+
+    .team_info h4 {
+        font-size: 18px;
+    }
+
+    .team_info h6 {
+        font-size: 16px;
+    }
+
+    .team_info p {
+        font-size: 16px;
+    }
+
+    .team_social a {
+        padding: 0 8px 0 0;
+    }
+
+    .team_social a i {
+        padding: 7px;
+    }
+
+    #team .section_title p{
+        font-size: 17px;
+    }
+
+    /* section pricing */
+
+    .pricing_box{
+        max-width: 100%;
+        padding: 50px 70px;
+    }
+
+    .pricing_box ul li {
+        font-size: 17px;
+    }
+
+    .pricing_box ul li i {
+        font-size: 17px;
+    }
+
+    .pricing_box a {
+        padding: 16px 28px;
+    }
+
+    #pricing .section_title p {
+        font-size: 17px;
+    }
+
+    /* section asked */
+
+    #asked .section_title {
+        text-align: center;    
+    }
+
+    #asked .section_title h2{
+        font-size: 34px;
+    }
+
+    .asked_info li{
+        margin: 15px 0;
+    }
+
+    #asked .section_title p {
+        font-size: 17px;
+        font-weight: 400;
+    }
+
+    /* section contact */
+
+    #contact .section_title p {
+        font-size: 16px;
+    }
+
+    #form_r{
+        padding-top: 30px;
+    }
+
+    /* section contact */
+
+    #join_email{
+        padding: 10px 100px;
+        margin-bottom: 20px;
+    }
+
+    .join p{
+        font-size: 15px;
+    }
+
+    /* footer */
+
+    .f_top{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .f_links h4{
+        padding: 40px 0 0 0;
+    }
+
+    #f_srv{
+        padding: 0 auto;
+    }
+
+    .f_social h4{
+        padding: 40px 0 0 0;
+    }
+
+    /* finish */
+
+    .finish p{
+        margin-bottom: 0;
+        text-align: center;
+    }
+}
